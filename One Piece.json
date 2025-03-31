@@ -4,5 +4,14 @@
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
   "cover": "https://jumpg-assets.tokyo-cdn.com/secure/title/200016/title_thumbnail_portrait_list/326463.jpg?hash=i_U3zyP3ian3PNse4Lc4Wg&expires=2145884400",
-  "chapters": {}
+  "chapters": {
+    "1144": {
+      "title": "1144",
+      "volume": "112",
+      "last_updated": "1743391238",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/AoUiNea"
+      }
+    }
+  }
 }
