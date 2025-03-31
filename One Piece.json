@@ -3,39 +3,159 @@
   "description": "Esta es la gran Era Pirata. Gold Roger, el legendario “Rey de los piratas” ha dejado el “One Piece” - su legendario Tesoro - escondido en una zona del mundo llamada “GRAND LINE” y los piratas más fuertes compiten por hallarlo. Un niño llamado Luffy idolatraba a los piratas, en especial a Shanks, el líder de una tripulación que visitó su villa. Un día, por accidente, Luffy comió una “fruta del diablo” del botín de Shanks. Gracias a esa fruta, su cuerpo se ha vuelto de goma pero nunca podrá nadar. El día que los piratas abandonaron la villa, Shanks le obsequió a Luffy su mas preciada posesión: su sombrero de paja. Diez años han pasado desde ese día y Luffy ha salido al mar buscando convertirse en el nuevo “Rey de los piratas”. ¡Aquí inicia la gran aventura de Luffy!",
   "artist": "Eiichiro Oda",
   "author": "Eiichiro Oda",
-  "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&nahttps://static.wikia.nocookie.net/onepiece/images/9/9e/Volumen_111.png/revision/latest?cb=20250217051219&path-prefix=esme=4096x4096",
+  "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&name=4096x4096",
   "chapters": {
-    "1141": {
-      "title": "Una mujer mayor",
+    "1144": {
+      "title": "Hora de los guerreros",
       "volume": "112",
-      "last_updated": "1743393967",
+      "last_updated": "1743346800",
       "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/6hZL3NQ"
-      }
-    },
-    "1142": {
-      "title": "A lo que más le tengo miedo",
-      "volume": "112",
-      "last_updated": "1743392549",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/q2IYTvR"
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/BZTzl5u"
       }
     },
     "1143": {
       "title": "Caballeros Sagrados",
       "volume": "112",
-      "last_updated": "1743392294",
+      "last_updated": "1742742000",
       "groups": {
         "Los Mugiwara Scans": "/proxy/api/imgur/chapter/Ptob8DI"
       }
     },
-    "1144": {
-      "title": "Hora de los guerreros",
+    "1142": {
+      "title": "A lo que más le tengo miedo",
       "volume": "112",
-      "last_updated": "1743391238",
+      "last_updated": "1741532400",
       "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/BZTzl5u"
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/q2IYTvR"
       }
-    }
+    },
+    "1141": {
+      "title": "Una mujer mayor",
+      "volume": "112",
+      "last_updated": "1740927600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/6hZL3NQ"
+      }
+    },
+    "1140": {
+      "title": "Scopper Gaban",
+      "volume": "112",
+      "last_updated": "1740322800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/bjApLb8"
+      }
+    },
+    "1139": {
+      "title": "Devorador de montañas",
+      "volume": "112",
+      "last_updated": "1739113200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/n7O0Zu9"
+      }
+    },
+    "1138": {
+      "title": "Harley",
+      "volume": "112",
+      "last_updated": "1738508400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/xviLMWx"
+      }
+    },
+    "1137": {
+      "title": "Aparece Shamrock",
+      "volume": "112",
+      "last_updated": "1737903600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/1dclY0L"
+      }
+    },
+    "1136": {
+      "title": "El país que espera la llegada del sol",
+      "volume": "112",
+      "last_updated": "1737298800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/WV0Abeb"
+      }
+    },
+    "1135": {
+      "title": "Copas de amistad",
+      "volume": "112",
+      "last_updated": "1736089200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/g16sY46"
+      }
+    },
+    "1134": {
+      "title": "La biblioteca el búho",
+      "volume": "112",
+      "last_updated": "1734879600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/xRfSnfW"
+      }
+    },
+    "1133": {
+      "title": "Quisiera que me felicites",
+      "volume": "111",
+      "last_updated": "1733670000",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/dqzAY1R"
+      }
+    },
+    "1132": {
+      "title": "Aventura en Elbaph",
+      "volume": "111",
+      "last_updated": "1733065200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/gXsIvd1"
+      }
+    },
+    "1131": {
+      "title": "Loki del Mundo Infernal",
+      "volume": "111",
+      "last_updated": "1731250800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/dPpeFZI"
+      }
+    },
+    "1130": {
+      "title": "El príncipe maldito",
+      "volume": "111",
+      "last_updated": "1729436400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/KnzI4Dk"
+      }
+    },
+    "1129": {
+      "title": "Livdoll",
+      "volume": "111",
+      "last_updated": "1728831600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/jv0fc07"
+      }
+    },
+    "1128": {
+      "title": "RPG",
+      "volume": "111",
+      "last_updated": "1728226800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/XmOANdG"
+      }
+    },
+    "1127": {
+      "title": "Aventura en un país misterioso",
+      "volume": "111",
+      "last_updated": "1727017200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/OJ0asKF"
+      }
+    },
+    "1126": {
+      "title": "Ajuste de cuentas",
+      "volume": "111",
+      "last_updated": "1726412400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/3u7bR6O"
+      }
+    },
   }
 }
