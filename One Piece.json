@@ -5,7 +5,15 @@
   "author": "Eiichiro Oda",
   "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&name=4096x4096",
   "chapters": {
-  "1152": {
+  "1153": {
+      "title": "El Nacimiento de Loki",
+      "volume": "113",
+      "last_updated": "1750984500",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/1xIOVVf"
+      }
+  },
+    "1152": {
       "title": "Un día triste",
       "volume": "113",
       "last_updated": "1750604400",
