@@ -5,236 +5,12 @@
   "author": "Eiichiro Oda",
   "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&name=4096x4096",
   "chapters": {
-  "1156": {
-      "title": "Idols",
-      "volume": "113",
-      "last_updated": "1754233200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/A0BaBDF"
-      }
-  },
-  "1155": {
-      "title": "Los Piratas de Rocks",
-      "volume": "113",
-      "last_updated": "1753023600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/N72KGDO"
-      }
-  },
-  "1154": {
-      "title": "No me puedo morir",
-      "volume": "113",
-      "last_updated": "1752418800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/6qVe4i3"
-      }
-  },
-  "1153": {
-      "title": "El Nacimiento de Loki",
-      "volume": "113",
-      "last_updated": "1751209200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/RbO38AL"
-      }
-  },
-    "1152": {
-      "title": "Un día triste",
-      "volume": "113",
-      "last_updated": "1750604400",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/zKFru0O"
-      }
-  },
-  "1151": {
-      "title": "No digas más. ¡¡¡Ya lo entendí!!!",
-      "volume": "113",
-      "last_updated": "1749394800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/Pteh8cS"
-      }
-  },
-  "1150": {
-      "title": "Domi Reversi",
-      "volume": "113",
-      "last_updated": "1748790000",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/RPQAuK8"
-      }
-  },
-  "1149": {
-      "title": "Un segundo",
-      "volume": "113",
-      "last_updated": "1748185200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/vu2jOYi"
-      }
-    },
-    "1148": {
-      "title": "Ronja",
-      "volume": "113",
-      "last_updated": "1746975600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/iZJJ8Fo"
-      }
-    },
-      "1147": {
-      "title": "A lo que nosotros le tenemos miedo",
-      "volume": "113",
-      "last_updated": "1745766000",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/16aXXcU"
-      }
-    },
-     "1146": {
-      "title": "Movimiento en medio de la calma",
-      "volume": "113",
-      "last_updated": "1745161200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/loutu69"
-      }
-    },
-    "1145": {
-      "title": "Incendio en la Ruta 8 del Segundo Sector Forestal",
-      "volume": "113",
-      "last_updated": "1743951600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/2xdZELo"
-      }
-    },
-    "1144": {
-      "title": "Hora de los guerreros",
-      "volume": "112",
-      "last_updated": "1743346800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/BZTzl5u"
-      }
-    },
-    "1143": {
-      "title": "Caballeros Sagrados",
-      "volume": "112",
-      "last_updated": "1742742000",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/Ptob8DI"
-      }
-    },
-    "1142": {
-      "title": "A lo que más le tengo miedo",
-      "volume": "112",
-      "last_updated": "1741532400",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/q2IYTvR"
-      }
-    },
-    "1141": {
-      "title": "Una mujer mayor",
-      "volume": "112",
-      "last_updated": "1740927600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/6hZL3NQ"
-      }
-    },
-    "1140": {
-      "title": "Scopper Gaban",
-      "volume": "112",
-      "last_updated": "1740322800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/bjApLb8"
-      }
-    },
-    "1139": {
-      "title": "Devorador de montañas",
-      "volume": "112",
-      "last_updated": "1739113200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/n7O0Zu9"
-      }
-    },
-    "1138": {
-      "title": "Harley",
-      "volume": "112",
-      "last_updated": "1738508400",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/xviLMWx"
-      }
-    },
-    "1137": {
-      "title": "Aparece Shamrock",
-      "volume": "112",
-      "last_updated": "1737903600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/1dclY0L"
-      }
-    },
-    "1136": {
-      "title": "El país que espera la llegada del sol",
-      "volume": "112",
-      "last_updated": "1737298800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/WV0Abeb"
-      }
-    },
-    "1135": {
-      "title": "Copas de amistad",
-      "volume": "112",
-      "last_updated": "1736089200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/g16sY46"
-      }
-    },
-    "1134": {
-      "title": "La biblioteca el búho",
-      "volume": "112",
-      "last_updated": "1734879600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/xRfSnfW"
-      }
-    },
-    "1133": {
-      "title": "Quisiera que me felicites",
+    "1126": {
+      "title": "Ajuste de cuentas",
       "volume": "111",
-      "last_updated": "1733670000",
+      "last_updated": "1726412400",
       "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/dqzAY1R"
-      }
-    },
-    "1132": {
-      "title": "Aventura en Elbaph",
-      "volume": "111",
-      "last_updated": "1733065200",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/gXsIvd1"
-      }
-    },
-    "1131": {
-      "title": "Loki del Mundo Infernal",
-      "volume": "111",
-      "last_updated": "1731250800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/dPpeFZI"
-      }
-    },
-    "1130": {
-      "title": "El príncipe maldito",
-      "volume": "111",
-      "last_updated": "1729436400",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/KnzI4Dk"
-      }
-    },
-    "1129": {
-      "title": "Livdoll",
-      "volume": "111",
-      "last_updated": "1728831600",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/jv0fc07"
-      }
-    },
-    "1128": {
-      "title": "RPG",
-      "volume": "111",
-      "last_updated": "1728226800",
-      "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/XmOANdG"
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/3u7bR6O"
       }
     },
     "1127": {
@@ -245,12 +21,236 @@
         "Los Mugiwara Scans": "/proxy/api/imgur/chapter/OJ0asKF"
       }
     },
-    "1126": {
-      "title": "Ajuste de cuentas",
+    "1128": {
+      "title": "RPG",
       "volume": "111",
-      "last_updated": "1726412400",
+      "last_updated": "1728226800",
       "groups": {
-        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/3u7bR6O"
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/XmOANdG"
+      }
+    },
+    "1129": {
+      "title": "Livdoll",
+      "volume": "111",
+      "last_updated": "1728831600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/jv0fc07"
+      }
+    },
+    "1130": {
+      "title": "El príncipe maldito",
+      "volume": "111",
+      "last_updated": "1729436400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/KnzI4Dk"
+      }
+    },
+    "1131": {
+      "title": "Loki del Mundo Infernal",
+      "volume": "111",
+      "last_updated": "1731250800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/dPpeFZI"
+      }
+    },
+    "1132": {
+      "title": "Aventura en Elbaph",
+      "volume": "111",
+      "last_updated": "1733065200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/gXsIvd1"
+      }
+    },
+    "1133": {
+      "title": "Quisiera que me felicites",
+      "volume": "111",
+      "last_updated": "1733670000",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/dqzAY1R"
+      }
+    },
+    "1134": {
+      "title": "La biblioteca el búho",
+      "volume": "112",
+      "last_updated": "1734879600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/xRfSnfW"
+      }
+    },
+    "1135": {
+      "title": "Copas de amistad",
+      "volume": "112",
+      "last_updated": "1736089200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/g16sY46"
+      }
+    },
+    "1136": {
+      "title": "El país que espera la llegada del sol",
+      "volume": "112",
+      "last_updated": "1737298800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/WV0Abeb"
+      }
+    },
+    "1137": {
+      "title": "Aparece Shamrock",
+      "volume": "112",
+      "last_updated": "1737903600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/1dclY0L"
+      }
+    },
+    "1138": {
+      "title": "Harley",
+      "volume": "112",
+      "last_updated": "1738508400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/xviLMWx"
+      }
+    },
+    "1139": {
+      "title": "Devorador de montañas",
+      "volume": "112",
+      "last_updated": "1739113200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/n7O0Zu9"
+      }
+    },
+    "1140": {
+      "title": "Scopper Gaban",
+      "volume": "112",
+      "last_updated": "1740322800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/bjApLb8"
+      }
+    },
+    "1141": {
+      "title": "Una mujer mayor",
+      "volume": "112",
+      "last_updated": "1740927600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/6hZL3NQ"
+      }
+    },
+    "1142": {
+      "title": "A lo que más le tengo miedo",
+      "volume": "112",
+      "last_updated": "1741532400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/q2IYTvR"
+      }
+    },
+    "1143": {
+      "title": "Caballeros Sagrados",
+      "volume": "112",
+      "last_updated": "1742742000",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/Ptob8DI"
+      }
+    },
+    "1144": {
+      "title": "Hora de los guerreros",
+      "volume": "112",
+      "last_updated": "1743346800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/BZTzl5u"
+      }
+    },
+    "1145": {
+      "title": "Incendio en la Ruta 8 del Segundo Sector Forestal",
+      "volume": "113",
+      "last_updated": "1743951600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/2xdZELo"
+      }
+    },
+    "1146": {
+      "title": "Movimiento en medio de la calma",
+      "volume": "113",
+      "last_updated": "1745161200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/loutu69"
+      }
+    },
+    "1147": {
+      "title": "A lo que nosotros le tenemos miedo",
+      "volume": "113",
+      "last_updated": "1745766000",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/16aXXcU"
+      }
+    },
+    "1148": {
+      "title": "Ronja",
+      "volume": "113",
+      "last_updated": "1746975600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/iZJJ8Fo"
+      }
+    },
+    "1149": {
+      "title": "Un segundo",
+      "volume": "113",
+      "last_updated": "1748185200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/vu2jOYi"
+      }
+    },
+    "1150": {
+      "title": "Domi Reversi",
+      "volume": "113",
+      "last_updated": "1748790000",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/RPQAuK8"
+      }
+    },
+    "1151": {
+      "title": "No digas más. ¡¡¡Ya lo entendí!!!",
+      "volume": "113",
+      "last_updated": "1749394800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/aTXPkoN"
+      }
+    },
+    "1152": {
+      "title": "Un día triste",
+      "volume": "113",
+      "last_updated": "1750604400",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/zKFru0O"
+      }
+    },
+    "1153": {
+      "title": "El Nacimiento de Loki",
+      "volume": "113",
+      "last_updated": "1751209200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/KMkIkfF"
+      }
+    },
+    "1154": {
+      "title": "No me puedo morir",
+      "volume": "113",
+      "last_updated": "1752418800",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/6qVe4i3"
+      }
+    },
+    "1155": {
+      "title": "Los Piratas de Rocks",
+      "volume": "113",
+      "last_updated": "1753023600",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/N72KGDO"
+      }
+    },
+    "1156": {
+      "title": "Idols",
+      "volume": "113",
+      "last_updated": "1754233200",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/A0BaBDF"
       }
     }
   }
