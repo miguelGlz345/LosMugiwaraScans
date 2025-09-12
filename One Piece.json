@@ -5,6 +5,14 @@
   "author": "Eiichiro Oda",
   "cover": "https://pbs.twimg.com/media/Gj9TDfNa0AANQZl?format=jpg&name=4096x4096",
   "chapters": {
+    "1096": {
+      "title": "Kuma-chi",
+      "volume": "108",
+      "last_updated": "1698678000",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/hn4vBIJ"
+      }
+    },
     "1126": {
       "title": "Ajuste de cuentas",
       "volume": "111",
@@ -275,6 +283,14 @@
       "last_updated": "1757257200",
       "groups": {
         "Los Mugiwara Scans": "/proxy/api/imgur/chapter/rYl9ish"
+      }
+    },
+    "1160": {
+      "title": "El Incidente de God Valley",
+      "volume": "113",
+      "last_updated": "1757695517",
+      "groups": {
+        "Los Mugiwara Scans": "/proxy/api/imgur/chapter/js6Ju0a"
       }
     }
   }
